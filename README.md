@@ -1,4 +1,4 @@
-# interface ERC165-ERC721
+# interface ERC165-721
 
 The Solidity code describes a standard implementation for `ERC721` Non-Fungible Tokens, including interfaces for receiving and checking `ERC721` token support, and a base contract that provides standard token management functions.
 
