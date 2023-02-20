@@ -2,7 +2,7 @@
 
 The Solidity code describes a standard implementation for `ERC721` Non-Fungible Tokens, including interfaces for receiving and checking `ERC721` token support, and a base contract that provides standard token management functions.
 
-The smart contract allows developers to create their own unique, non-fungible tokens. `ERC721` tokens are unique and cannot be replicated.
+The smart contract allows developers to create their own unique, non-fungible tokens (unique and cannot be replicated).
 
 The contract defines several interfaces and an abstract contract that the `ERC721` token contract extends. The IERC721Receiver interface defines a function that a contract must implement to receive `ERC721` tokens. The `IERC165` interface specifies a function for checking whether a contract supports a particular interface.
 
